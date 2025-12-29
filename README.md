@@ -31,6 +31,7 @@ Database: MySQL
 ## 🧩 How It Works
 #### Submission: 
 The user inputs details about an object (e.g., "iPhone 13, Blue, Library, 2024-10-12").
+
 Processing: The system stores these specifications in the database.
 
 #### Matching Logic:
